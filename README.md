@@ -2,6 +2,8 @@
 > Built with ❤️ by [PhotoPixc Automation & Growth Lab](https://photopixc.com/)
 > 
 > A plug-and-play, enterprise-grade Looker Studio template designed for Shopify, WooCommerce, and D2C brands spending $5k–$100k+/month on Meta Ads and Google Ads.
+>
+> 🚀 **[👉 Click Here to Open & Make a Copy of the Live Dashboard Template](https://lookerstudio.google.com/reporting/3a8ef9ca-ea6e-45c1-95dd-35b422b5f46b)**
 
 ---
 
